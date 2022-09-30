@@ -1,0 +1,54 @@
+body{
+    background-image: url("../Images/Apex.jpg");
+}
+.Présentation-du-jeu-Apex-Legends{
+    width:60%;
+    background-color: white;
+    margin-left: 50%;
+    transform:translateX(-50%);
+    margin-top: 60px;
+    padding: 30px;
+    border-radius: 30px;
+    border: 2px solid black;
+    font-size: 2vw;
+    margin-bottom: 60px;
+
+}
+img{
+    width: 87%;
+    margin-left: 50%;
+    transform: translateX(-50%);
+}
+.Présentation-du-jeu-Apex-Legends h2{
+    text-align: center;
+}
+section a{
+    text-align: center;
+    text-decoration: none;
+    color: blue;
+    transition: 0.2s;
+}
+section a:hover{
+    color: blue;
+    cursor: default;
+    transform: translateY(-8px);
+    transition: 0.5s;
+}
+.Perso{
+    color:rgb(156, 19, 219);
+}
+.Critique{
+    width:60%;
+    background-color: white;
+    margin-left: 50%;
+    transform:translateX(-50%);
+    margin-top: 60px;
+    padding: 30px;
+    border-radius: 30px;
+    border: 2px solid black;
+    font-size: 2vw;
+    margin-bottom: 60px;
+}
+.Critique h2{
+    text-align: center;
+}

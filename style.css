@@ -1,0 +1,28 @@
+.Message-daccueil{
+    width:60%;
+    background-color: white;
+    margin-left: 50%;
+    transform:translateX(-50%);
+    margin-top: 60px;
+    padding: 30px;
+    border-radius: 30px;
+    border: 2px solid black;
+    font-size: 2vw;
+    margin-bottom: 60px;
+}
+.Message-daccueil h3{
+    text-align: center;
+}
+section li{
+    list-style: none;
+    text-decoration: none;
+    float: left;
+    margin-left: 50px;
+    color: rgb(24, 200, 253);
+    transition: 0.5s;
+    margin-top: 10px;
+}
+section li:hover{
+    transition: 0.5s;
+    transform:scale(1.3);
+}

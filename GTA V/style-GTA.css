@@ -1,0 +1,46 @@
+body{
+    background-image: url("../Images/GTA.jpg");
+}
+.Critique-GTA{
+    width:60%;
+    background-color: white;
+    margin-left: 50%;
+    transform:translateX(-50%);
+    margin-top: 60px;
+    padding: 30px;
+    border-radius: 30px;
+    border: 2px solid black;
+    font-size: 2vw;
+    margin-bottom: 60px;
+}
+.Critique-GTA h2{
+    text-align: center;
+}
+.Presentation-GTAV{
+    width:60%;
+    background-color: white;
+    margin-left: 50%;
+    transform:translateX(-50%);
+    margin-top: 60px;
+    padding: 30px;
+    border-radius: 30px;
+    border: 2px solid black;
+    font-size: 2vw;
+    margin-bottom: 60px;
+}
+
+.Presentation-GTAV h2{
+    text-align: center;
+}
+section a{
+    text-align: center;
+    text-decoration: none;
+    color: blue;
+    transition: 0.2s;
+}
+section a:hover{
+    color: blue;
+    cursor: default;
+    transform: translateY(-8px);
+    transition: 0.5s;
+}
